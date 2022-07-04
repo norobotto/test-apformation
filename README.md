@@ -6,4 +6,6 @@ deuxième modification
 
 commit 1
 
-comit 2
+commit 2
+
+commit 3
